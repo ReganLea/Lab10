@@ -1,7 +1,7 @@
 AutomatedMakefile = am
 CC = g++
 
-FILES = 
+FILES =  
 EXECUTABLE = 
 
 PROJECT_PATH = $(PROJECT_DIR)
